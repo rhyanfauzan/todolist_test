@@ -1,6 +1,6 @@
 # app_checklist_testryan
 
-A new Flutter project.
+Aplikasi To-Do List dengan Flutter.
 
 ## Getting Started
 
